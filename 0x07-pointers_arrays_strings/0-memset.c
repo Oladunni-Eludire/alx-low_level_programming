@@ -5,7 +5,6 @@
  * @s: starting address
  * @b: the value
  * @n: number of bytes
-
  * Return: new value for n bytes
  */
 char *_memset(char *s, char b, unsigned int n)
